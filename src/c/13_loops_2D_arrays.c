@@ -30,5 +30,3 @@ int main(){
     return 0;
 
 }
-
-// discuss about for loops and 2D loops in 2D arrays

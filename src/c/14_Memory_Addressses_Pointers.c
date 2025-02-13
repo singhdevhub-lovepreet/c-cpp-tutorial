@@ -4,6 +4,7 @@
 int pointers(){    
     
     // pointer is just a memory address and nothing else. It is just an another type of data
+    // ptr + 1 is nothing but ptr is going ahead by sizeof(int) if ptr is of type int*
     int age = 40;
     int* agePointer = &age;
     printf("%p\n", agePointer);

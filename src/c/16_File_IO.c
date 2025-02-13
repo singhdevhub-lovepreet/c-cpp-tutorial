@@ -17,6 +17,3 @@ int main(){
 }
 
 
-
-// Next: Union, typedef, #define CIRCLE_AREA(r) (3.14 * r * r) 
-// C-language compilation internals, c_cpp_properties, UTM/VM and use in vscode
